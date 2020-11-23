@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38d37efc-d528-44f1-8dad-c6ad0eaaf9ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exo 1/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 2/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 3/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 4/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/.idea/exo50.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +41,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605785252556</updated>
       <workItem from="1605785254971" duration="300000" />
+      <workItem from="1606125405044" duration="51000" />
+      <workItem from="1606127479025" duration="877000" />
     </task>
     <servers />
   </component>
@@ -53,5 +59,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
